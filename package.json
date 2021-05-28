@@ -1,0 +1,18 @@
+{
+  "name": "stripe_bulk_invoice_export",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": "https://github.com/paulr113/stripe_bulk_invoice_export.git",
+  "author": "paulr113",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^3.2.0",
+    "cli-progress": "^3.9.0",
+    "nodejs-file-downloader": "^4.5.3",
+    "prompt": "^1.1.0",
+    "stripe": "^8.150.0"
+  }
+}
